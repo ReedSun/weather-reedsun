@@ -1,6 +1,12 @@
 # weather-reedsun
 一个查询当地天气的命令行小工具
-## 使用方法
+
+## 安装
+```
+npm install -g weather-reedsun
+```
+
+## 使用
 执行命令
 ```
 weather
